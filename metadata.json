@@ -1,0 +1,5 @@
+{
+  "name": "AI BookSmith",
+  "description": "Generate comprehensive PDF books from simple prompt ideas using Gemini AI. Features automatic outlining, chapter writing, and cover art generation.",
+  "requestFramePermissions": []
+}
